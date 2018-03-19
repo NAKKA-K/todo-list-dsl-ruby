@@ -17,4 +17,4 @@ def todo(task_name, deadline: nil)
     puts
 end
 
-load 'todo_list.rb'
+load 'todo_list'
